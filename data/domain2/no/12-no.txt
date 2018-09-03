@@ -1,0 +1,7 @@
+Gradnett, vanligvis kalt rutenett er et praktisk hjelpemiddel til å få orden på todimensjonale (flate) forhold. Det best kjente rutenettet finner vi i regnebøker, hvor tall og regnetegn skulle stå over og noen ved siden av hverandre. Rutepapir er fortsatt i handelen,men er på vei ut til fordel for «Grids» i dataprogrammer.
+Gradnett er også et tenkt rutenett på jordkloden, bygd opp av breddesirkler (parallellsirkler), og lengdesirkler (meridianer).
+Gradnettet ble brukt til å posisjonsbestemme seg selv(orientering), båten(navigasjon) eller stedet (landmåling). Dette er nå i stor grad endret med innføring av satellittsignaler i GPS-systemet. Posisjonen oppgis fortsatt i grader, minutter og sekunder i forhold til ekvator og Greenwich- linjen.
+
+
+== Se også ==
+Kart

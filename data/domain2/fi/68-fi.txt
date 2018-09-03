@@ -1,0 +1,13 @@
+Luettelo Leijonan tähdistön tähdistä.
+Taulukon sarakkeissa käytetyt lyhenteet:
+HD numero Henry Draper -luettelossa
+HIP numero Hipparcos-luettelossa
+RA Rektaskensio
+DEC Deklinaatio
+Vis Näennäinen kirkkaus
+Abs Absoluuttinen kirkkaus
+
+
+== Lähteet ==
+
+Hipparchos catalogue: query form CASU Astronomical Data Centre / ESA. Viitattu 22.2.2012.

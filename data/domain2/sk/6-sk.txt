@@ -1,0 +1,5 @@
+Automat je matematický model správania sa systému uskutočňujúceho zobrazenie informácie. Ak je táto informácia číslicová, hovoríme o číslicovom alebo diskrétnom automate. Pôvodná informácia sa privádza na vstup automatu, transformovaná informácia sa objavuje na jeho výstupe. Činnosť číslicového automatu prebieha v nespojitých časových úsekoch, ktorých veľkosť nemusí byť zhodná. V tychto časových úsekoch sa na vstup automatu privádzajú vstupné symboly, ktoré automat transformuje na výstupné symboly.
+
+
+== Externé odkazy ==
+FILIT – zdroj, z ktorého pôvodne čerpal tento článok.

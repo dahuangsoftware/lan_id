@@ -1,0 +1,51 @@
+En konstant er et begreb, der især benyttes i naturvidenskabelige sammenhænge. En konstant er et fastlåst tal; et tal der altså aldrig ændrer sig. Modsat konstanter findes variabler, hvilket ikke er fastsatte tal; her benyttes x og y tit, hvor de henholdsvis er den uafhængige og afhængige variabel.
+I fysikken bruges f.eks. en konstant som tyngdeaccelerationen, som betegnes "g", og har en værdi på 9,82 m/s² i Danmark.
+
+  
+    
+      
+        g
+        =
+        9.82
+        
+        
+          
+            m
+            
+              s
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle g=9.82\;{\frac {m}{s^{2}}}}
+  
+I matematikken betegner den irrationale konstant pi forholdet mellem omkreds og diameter i en cirkel:
+
+  
+    
+      
+        π
+        =
+        3
+        ,
+        1415...
+        
+        
+          
+            
+            
+          
+        
+      
+    
+    {\displaystyle \pi =3,1415...\;{\frac {}{}}}
+  
+
+
+== Se også ==
+Matematisk konstant
+Fysiske konstanter

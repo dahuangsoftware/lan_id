@@ -1,0 +1,22 @@
+涉及到的语种：
+{"it": "Italian", "pl": "Polish", "ru": "Russian", "sk": "Slovak", "pt": "Portuguese",
+                    "ro": "Romanian", "da": "Danish", "sv": "Swedish", "no": "Norwegian", "en": "English",
+                    "es": "Spanish", "fr": "French", "cs": "Czech", "de": "German", "fi": "Finnish", "et": "Estonian",
+                    "lv": "Latvian", "lt": "Lithuanian", "fa": "Persian", "hu": "Hungarian", "he": "Hebrew",
+                    "el": "Greek", "ar": "Arabic"}
+
+运行环境：python2.7
+
+运行方式：
+lan_id 直接运行可以在控制台输入字符串判断语种
+test_accurate直接运行判断在测试集的准确率
+train\train.py直接运行训练数据
+
+结构介绍：
+\data:存放语料库
+\test:存放测试语料库
+\train:训练数据集
+    \data.model:存放训练过程中的中间数据以及训练的模型
+\lan_id.py:主程序
+\name.txt:语言英汉对照表
+\test_accurate.py:测试正确率程序

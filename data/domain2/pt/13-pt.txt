@@ -1,0 +1,15 @@
+A nomenclatura farmacêutica é um conjunto de terminações adotadas e consensadas pela comunidade científica para fármacos, visando reuni-los segundo sua atividade farmacológica no organismo. Entre os vários compostos, o primeiro tipo de nome para uma composição conhecida é o nome químico. Um dos mais relevantes nesta classificação é a Chemical Abstracts Services CAS Index da American Chemical Society.
+Um único fármaco possui um conjunto de três ou mais nomes: sigla, código, nome químico, marcas comerciais, nome genérico, oficial ou comum e sinônimos ou outros nomes. A sigla deriva tradicionalmente do nome do laboratório, pesquisador ou grupo de pesquisa e não é mais usada quando se escolhe um nome. Nome registrado é o escolhido pelo fabricante e o genérico é escolhido pelo órgãos reguladores do país. O nome químico é resultante de sua estrutura química. Os sinônimos são aqueles diferentes dos nomes dados pela Organização Mundial de Saúde. O nome de fármacos devem ser escritos com inicial minúscula
+
+
+== Tipos de nomes de drogas ==
+Os fármacos possuem três ou mais nomes, sigla, número do código ou designação do código, nome químico, nome genérico, nome registrado, sinônimos.
+Quando temos um novo composto derivado de plantas e animais, que não são compostos puros, cientificamente adota-se termos bioquímicos ou zoológicos. A maioria das drogas em desenvolvimento recebem um código formados pela combinação de uma letra e de um número. As letras, em geral, representam a sigla do laboratório de pesquisa e os números são aleatórios, seguindo regimentos internos.
+Também podem ser utilizados acrônimos, sendo este uma prática que pode conter imprecisões. Como exemplo, podemos citar o acrônimo AZT, que é um acrônimo da azatioprina e do medicamento zidovudina.
+Para facilitar os estudos, são utilizadas terminações que agrupam substâncias com mesmas características de ação.
+
+
+== Exemplos de terminações ==
+
+
+== Notas e referências ==

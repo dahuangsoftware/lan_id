@@ -1,0 +1,23 @@
+EasyOS est une distribution Linux créée par la société Neuf Cegetel pour son EasyGate qui met l'accent sur la simplicité d'utilisation et la légèreté. Ce système d'exploitation est entièrement basé sur des logiciels libres, les logiciels développés par Neuf Cegetel étant placés sous licence GNU GPL.
+
+
+== Interfaces ==
+L'EasyOS permet à l'utilisateur de choisir parmi 3 niveaux de navigation en fonction de son expérience.
+
+
+=== Easy ===
+Easy est une interface en 3 dimensions permettant une navigation intuitive.
+
+
+=== Ergo ===
+Il s'agit de l'interface par défaut. Elle offre une navigation simplifiée mais plus complète que l'interface Easy.
+
+
+=== Expert ===
+Articulée autour de Xfwm 4 (le gestionnaire de fenêtres de Xfce), cette interface est plus classique, conforme à la navigation habituelle.
+
+
+== Lien externe ==
+(fr) Site de easyneuf
+ Portail des logiciels libres
+ Portail GNU/Linux

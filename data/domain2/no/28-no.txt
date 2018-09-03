@@ -1,0 +1,9 @@
+CLU er et trendsettende programmeringsspråk som ble skapt ved MIT av Barbara Liskov mellom 1974 og 1975. Selv om det ikke ble tatt i bruk i en større skala, introduserte det mange egenskaper som nå er vidt utbredt, og er sett på som et trinn i utviklingen av objektorientert programmering (OOP). Det er ikke objektorientert I seg selv, men betrakts som «objektbasert», ettersom det manglet mange av egenskapene til OOP.
+Nøkkelbidrag inkluderer abstrakte datatyper,  kall ved deling, iteartorer, multiple returverdier (en form for parallell tildeling), typetrygge parametriserte typer og typetrygge varianttyper. Språket er også bemerket for dets bruk av klasser og metoder, men uten arv.
+
+
+== Referanser ==
+
+
+== Eksterne lenker ==
+Argus Reference Manual

@@ -1,0 +1,6 @@
+Interpunkcia alebo interpunkčné znamienka alebo rozdeľovacie znamienka sú grafické znaky, ktoré nemajú fonetickú ani lexikálnu hodnotu a používajú sa na členenie textu. Pri čítaní nahlas sa prejavujú zmenou intonácie a prestávkami v texte.
+Každé interpunkčné znamienko podľa svojej povahy plní v texte vyčleňovaciu, pripájaciu alebo odčleňovaciu funkciu.
+
+
+== Tabuľka slovenských interpunkčných znamienok ==
+Bodka, čiarka, otáznik, výkričník, dvojbodka, bodkočiarka a tri bodky sa píšu bez medzery hneď za slovom. Medzera sa robí až za nimi. Text, vložený do zátvoriek alebo úvodzoviek, sa medzerou od týchto interpunkčných znamienok neoddeľuje. Ak v texte nasledujú dve interpunkčné znamienka po sebe (napr. bodka a čiarka či výkričník a otáznik), medzera medzi ne nepatrí.
